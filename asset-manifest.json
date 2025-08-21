@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asl-app/static/css/main.c9e979a6.css",
+    "main.js": "/asl-app/static/js/main.90a9e590.js",
+    "static/js/453.2b7dda0f.chunk.js": "/asl-app/static/js/453.2b7dda0f.chunk.js",
+    "index.html": "/asl-app/index.html",
+    "main.c9e979a6.css.map": "/asl-app/static/css/main.c9e979a6.css.map",
+    "main.90a9e590.js.map": "/asl-app/static/js/main.90a9e590.js.map",
+    "453.2b7dda0f.chunk.js.map": "/asl-app/static/js/453.2b7dda0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9e979a6.css",
+    "static/js/main.90a9e590.js"
+  ]
+}
